@@ -68,9 +68,9 @@ A instância passou a reportar dados automaticamente, incluindo:
 
 #### 📸 Print
 
-imagens/01-inventory-configuration.png
+![inventory config 1](imagens/01-inventory-configuration.png)
 
-imagens/02-inventory-configuration.png
+![inventory config 2](imagens/02-inventory-configuration.png)
 
 ---
 
@@ -92,7 +92,7 @@ Nesta etapa, usamos **Run Command** para instalar automaticamente:
 
 #### 📸 Print
 
-imagens/03-run-command-execution.png
+![run command exe](imagens/03-run-command-execution.png)
 
 ### ✔️ Resultado
 
@@ -104,7 +104,7 @@ http://35.95.112.138/
 
 #### 📸 Print
 
-imagens/04-web-dashboard.png
+![web dashboard](imagens/04-web-dashboard.png)
 
 ---
 
@@ -125,7 +125,7 @@ Implementamos um parâmetro para habilitar recursos beta no aplicativo.
 
 #### 📸 Print
 
-imagens/05-parameter-store.png
+![parameter store](imagens/05-parameter-store.png)
 
 ### ✔️ Resultado
 
@@ -133,7 +133,7 @@ Após atualizar a página, o dashboard exibiu um novo gráfico ativado dinamicam
 
 #### 📸 Print
 
-imagens/06-dashboard-beta-feature.png
+![dashboard beta feature](imagens/06-dashboard-beta-feature.png)
 
 ---
 
@@ -153,7 +153,7 @@ Nesta etapa acessamos a instância sem:
 
 #### 📸 Print
 
-imagens/07-session-manager-terminal.png
+![session manager terminal](imagens/07-session-manager-terminal.png)
 
 ### 🧪 Comandos Executados
 
@@ -163,7 +163,7 @@ Listar arquivos da aplicação:
 ls /var/www/html
 ```
 
-imagens/08-session-manager-terminal-02.png
+![session manager terminal](imagens/08-session-manager-terminal-02.png)
 
 Obter informações de instâncias pela CLI:
 
@@ -173,11 +173,11 @@ export AWS_DEFAULT_REGION=${AZ::-1}
 aws ec2 describe-instances
 ```
 
-imagens/09-session-manager-terminal-03.png
+![session manager terminal](imagens/09-session-manager-terminal-03.png)
 
 ## 🏗️ Arquitetura do laboratório
 
-imagens/arquitetura-sm.png
+![arquitetura lab](imagens/arquitetura-sm.png)
 
 ### ✔️ Benefícios
 
