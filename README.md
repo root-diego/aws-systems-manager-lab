@@ -191,10 +191,10 @@ aws ec2 describe-instances
 
 Ao final do laboratório, foi possível:
 
-✔️ Validar configurações e inventário
-✔️ Automatizar instalação de software
-✔️ Atualizar configurações da aplicação em tempo real
-✔️ Acessar instância de forma segura sem SSH
+-✔️ Validar configurações e inventário
+-✔️ Automatizar instalação de software
+-✔️ Atualizar configurações da aplicação em tempo real
+-✔️ Acessar instância de forma segura sem SSH
 
 Essas práticas demonstram o poder do **gerenciamento centralizado e automatizado de infraestrutura** com AWS Systems Manager.
 
