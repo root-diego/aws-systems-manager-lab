@@ -35,7 +35,7 @@ A atividade foi realizada como parte do programa **AWS re/Start - Escola da Nuve
 
 ```
 aws-systems-manager-lab/
-├── iamgens/               # Imagens do laboratório
+├── imagens/               # Imagens do laboratório
 └── README.md                  # Este documento
 ```
 
